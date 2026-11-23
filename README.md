@@ -133,7 +133,7 @@ I'm an IT graduate passionate about understanding how technology works, from ope
 
 <div align="center">
 
-### 💡 LEARN → EXPERIMENT → IMPLEMENT → IMPROVE
+### 💡LEARN → BUILD → EXPLORE → SECURE
 
 **Always curious. Always building. Always learning.**
 

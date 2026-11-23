@@ -36,7 +36,7 @@ I'm an IT graduate passionate about understanding how technology works, from ope
 - 💻 Exploring Web Development with HTML and CSS
 - 🚀 Learning through hands-on experiments and practical projects
 
-> Always learning, experimenting and implementing new things.
+> I believe in learning by doing — experimenting, breaking things, understanding how they work, and building them better.
 
 ---
 
@@ -64,7 +64,7 @@ I'm an IT graduate passionate about understanding how technology works, from ope
   <img src="https://img.shields.io/badge/LAN%20%2F%20WAN-Networks-blue?style=for-the-badge" />
 </p>
 
-### 🛡️ Cybersecurity & Network Tools
+### 🛡️ Cybersecurity Tools I'm Exploring
 
 <p>
   <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-4682B4?style=for-the-badge&logo=linux" />
@@ -119,6 +119,13 @@ I'm an IT graduate passionate about understanding how technology works, from ope
 
 ---
 
+## 🏆 Certifications
+
+- Oracle Certified Foundation Associate
+- Cisco Networking Academy – Packet Tracer
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -133,7 +140,7 @@ I'm an IT graduate passionate about understanding how technology works, from ope
 
 <div align="center">
 
-### 💡LEARN → BUILD → EXPLORE → SECURE
+### 💡 LEARN → BUILD → EXPLORE → SECURE
 
 **Always curious. Always building. Always learning.**
 

@@ -6,7 +6,7 @@
 ### 🛡️ Cybersecurity | 🌐 Networking | 🐧 Linux
 ### ⚙️ IT Infrastructure | 💻 Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=550&lines=Cybersecurity+Enthusiast;Networking+Explorer;Linux+Learner;Python+Automation;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=550&lines=Cybersecurity+Enthusiast;Networking+Explorer;Linux+Learner;Python+Automation;Learning+New+Things" />
 
 <p>
   <a href="https://github.com/Ashif-0702">
